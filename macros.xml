@@ -1,0 +1,47 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="preprod enter">
+      <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
+      <typing text-keycode="67:0;68:0;32:0;82:0;85:0;66:0">cd&amp;#x20;rub</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="45:0;80:1;32:0;82:0;85:0">-P&amp;#x20;ru</typing>
+      <shortuct text="TAB" />
+      <typing text-keycode="45:1;87:0">_w</typing>
+      <shortuct text="TAB" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="asd">
+      <typing text-keycode="65:0;83:0;68:0;65:0;83:0;68:0">asdasd</typing>
+    </macro>
+    <macro name="form_group">
+      <typing text-keycode="44:1;68:0;73:0;86:0;46:1">&lt;div&gt;</typing>
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="32:0;67:0;76:0">&amp;#x20;cl</typing>
+      <action id="EditorChooseLookupItemReplace" />
+      <typing text-keycode="70:0;79:0">fo</typing>
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+      <action id="SearchEverywhere" />
+      <typing text-keycode="83:0;84:0;79:0;80:0">stop</typing>
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="debug">
+      <typing text-keycode="52:1;84:0;72:0;73:0;83:0;45:0;76:0;79:0;71:0;71:0;69:0;82:0;45:0;46:1;68:0;69:0;66:0;85:0;71:0;57:1;48:1;59:0">$this-logger-&gt;debug();</typing>
+    </macro>
+    <macro name="php@property">
+      <typing text-keycode="47:0;56:1;56:1;32:0;50:1;80:0;82:0;79:0;80:0">/**&amp;#x20;@prop</typing>
+      <action id="EditorChooseLookupItem" />
+      <typing text-keycode="84:0;89:0;80:0;69:0;32:0;52:1;86:0;65:0;82:0">type&amp;#x20;$var</typing>
+    </macro>
+  </component>
+</application>

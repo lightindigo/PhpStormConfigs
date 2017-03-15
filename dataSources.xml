@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PostgreSQL - rubens_stat@192.168.20.236" uuid="c48f78f1-6ff0-4137-8cd5-93e3007e1027">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.20.236:5432/rubens_stat</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - rubens_site@192.168.20.236" uuid="0f73ccfd-cac2-447a-bf19-722e118f774d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.20.236:5432/rubens_site</jdbc-url>
+    </data-source>
+  </component>
+</application>

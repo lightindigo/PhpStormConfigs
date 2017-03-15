@@ -1,0 +1,134 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6343d9bd-e1c3-45bd-9413-7952bcdb5534" name="(m18)Триумф преапдейт" url="http://m18.mimimigames.com">
+        <fileTransfer host="m18.mimimigames.com" port="22" rootFolder="/media/storage/www/rubens/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="549f917c-f090-46ca-b6a8-8827d1bcdeaa" name="(web2)Триумф прод (все)" url="http://web2.raketa.center">
+        <fileTransfer host="web2.raketa.center" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6523fe01-fc42-4c2a-8217-388d60ec5347" name="(stronghold)Оплот прод (вк,од,мм,пв)" url="http://cdn.strongholdoftheempire.com">
+        <fileTransfer host="cdn.strongholdoftheempire.com" port="21022" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21022" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5457850d-7181-457b-a66f-77c9fe8bf1f4" name="(m6) Оплот прод (фб)" url="http://m6.strongholdoftheempire.com">
+        <fileTransfer host="m6.strongholdoftheempire.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="764cc9d5-8e84-4eb7-bfa0-c2c26832563f" name="Элемент препрод все" url="http://192.168.20.225">
+        <fileTransfer host="192.168.20.225" port="22" rootFolder="/spool/www/preprod-el.imm.mimimigames.com/htdocs/el5_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f93e408-2e2f-4fe9-8221-f43a46ca17de" name="Триумф препрод сайт" url="http://192.168.20.236">
+        <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ddebcd04-c6b7-458f-9c60-c0621bf7dd21" name="Триумф препрод стата" url="http://192.168.20.238">
+        <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-stat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dcae57d3-746f-4241-93bb-563b71de0c66" name="Элемент дев стата" url="http://192.168.20.210">
+        <fileTransfer host="192.168.20.210" port="22" rootFolder="/spool/www/dev.office.mimimigames.ru/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4f374ba4-04ef-4164-851e-b90cc7f9c836" name="Оплот препрод" url="http://192.168.20.215">
+        <fileTransfer host="192.168.20.215" port="22" rootFolder="/spool/www/prod.mimimigames.ru/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6861f9fe-ef59-4ed1-b164-72caac048b2c" name="Триумф препрод консоль" url="http://192.168.20.236">
+        <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/server-console" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7ac3727b-fb0b-4b42-a327-92b5adeb9401" name="Триумф препрод" url="http://192.168.20.236">
+        <fileTransfer host="192.168.20.236" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="003d72a7-1390-4b42-86f0-5f4dba000b8a" name="Триумф dev 2" url="http://192.168.20.238">
+        <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-dev2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9757fe18-4435-4605-bc0a-b0945ce8eb4c" name="Триумф dev1" url="http://192.168.20.236">
+        <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-dev1" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f6161b72-bb82-43bd-bbdd-4bee0c5dea48" name="Элемент препрод сервер" url="http://192.168.20.225">
+        <fileTransfer host="192.168.20.225" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f330784c-b753-41bd-a91d-b273934e413a" name="Оплот тест сервер" url="http://192.168.20.215">
+        <fileTransfer host="192.168.20.215" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fc0c0bc4-c8d5-4ea7-9a37-dfb51300b78e" name="Hub dev 2" url="http://dev2.office.raketa.center">
+        <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/hub-dev2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
