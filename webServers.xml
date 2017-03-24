@@ -129,6 +129,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c8c849a7-ef9f-421d-a40e-6b35c1ef474a" name="(web2)Raketa stat" url="http://web2.raketa.center">
+        <fileTransfer host="web2.raketa.center" port="22" rootFolder="/media/storage/www/rubens-stat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
