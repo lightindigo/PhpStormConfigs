@@ -51,6 +51,7 @@
   </inspection_tool>
   <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
@@ -58,6 +59,7 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
+  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
