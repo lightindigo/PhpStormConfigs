@@ -9,8 +9,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="549f917c-f090-46ca-b6a8-8827d1bcdeaa" name="(web2)Триумф прод (все)" url="http://web2.raketa.center">
-        <fileTransfer host="web2.raketa.center" port="22" accessType="SFTP">
+      <webServer id="549f917c-f090-46ca-b6a8-8827d1bcdeaa" name="(web2)Триумф прод (все)" url="http://web1.totalbattle.com">
+        <fileTransfer host="web1.totalbattle.com" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
