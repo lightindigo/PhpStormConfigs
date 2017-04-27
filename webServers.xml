@@ -81,8 +81,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="7ac3727b-fb0b-4b42-a327-92b5adeb9401" name="Триумф препрод" url="http://192.168.20.236">
-        <fileTransfer host="192.168.20.236" port="22" accessType="SFTP">
+      <webServer id="7ac3727b-fb0b-4b42-a327-92b5adeb9401" name="Триумф препрод" url="http://192.168.20.238">
+        <fileTransfer host="192.168.20.238" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
