@@ -41,8 +41,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="3f93e408-2e2f-4fe9-8221-f43a46ca17de" name="Триумф препрод сайт" url="http://192.168.20.236">
-        <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-web" accessType="SFTP">
+      <webServer id="3f93e408-2e2f-4fe9-8221-f43a46ca17de" name="Триумф препрод сайт" url="http://192.168.20.238">
+        <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
