@@ -72,6 +72,7 @@
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSDeclarationsAtScopeStart" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="JSFileReferences" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[$_A-Za-z][_A-Za-z0-9]*" />
