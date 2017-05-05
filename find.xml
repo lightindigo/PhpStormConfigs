@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'raketa_stat'" />
-    <option name="defaultScopeName" value="Project 'raketa_stat'" />
-    <option name="SEARCH_SCOPE" value="Project 'raketa_stat'" />
+    <option name="customScope" value="File '[raketa_web_hub] - .../application/modules/Restapi/Controllers/MobileController.php'" />
+    <option name="defaultScopeName" value="File '[raketa_web_hub] - .../application/modules/Restapi/Controllers/MobileController.php'" />
+    <option name="SEARCH_SCOPE" value="File '[raketa_web_hub] - .../application/modules/Restapi/Controllers/MobileController.php'" />
   </component>
 </application>
