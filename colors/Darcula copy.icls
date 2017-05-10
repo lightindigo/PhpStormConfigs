@@ -4,12 +4,17 @@
     <property name="created">2017-02-27T12:24:56</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2017-04-18T14:19:37</property>
+    <property name="modified">2017-05-10T18:50:31</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
+    <option name="PHP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="TWIG_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c600a6" />
