@@ -137,6 +137,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="00fe86bd-a85d-41dc-aa8c-9cf8359af4b7" name="m20.mimimigames.com" url="http://m20.mimimigames.com">
+        <fileTransfer host="m20.mimimigames.com" port="22" rootFolder="/media/storage/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
