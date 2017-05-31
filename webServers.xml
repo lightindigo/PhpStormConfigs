@@ -89,7 +89,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="003d72a7-1390-4b42-86f0-5f4dba000b8a" name="Триумф dev 2" url="http://192.168.20.238">
+      <webServer id="003d72a7-1390-4b42-86f0-5f4dba000b8a" name="(preprod) Триумф dev 2" url="http://192.168.20.238">
         <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-dev2" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
