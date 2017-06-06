@@ -9,7 +9,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="549f917c-f090-46ca-b6a8-8827d1bcdeaa" name="(web2)Триумф прод (все)" url="http://web1.totalbattle.com">
+      <webServer id="549f917c-f090-46ca-b6a8-8827d1bcdeaa" name="(web 2) Триумф прод (все)" url="http://web1.totalbattle.com">
         <fileTransfer host="web1.totalbattle.com" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -41,7 +41,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="3f93e408-2e2f-4fe9-8221-f43a46ca17de" name="Триумф препрод сайт" url="http://192.168.20.238">
+      <webServer id="3f93e408-2e2f-4fe9-8221-f43a46ca17de" name="(preprod) Триумф препрод сайт" url="http://192.168.20.238">
         <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -49,7 +49,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="ddebcd04-c6b7-458f-9c60-c0621bf7dd21" name="Триумф препрод стата" url="http://192.168.20.238">
+      <webServer id="ddebcd04-c6b7-458f-9c60-c0621bf7dd21" name="(preprod) Триумф препрод стата" url="http://192.168.20.238">
         <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-stat" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -73,7 +73,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="6861f9fe-ef59-4ed1-b164-72caac048b2c" name="Триумф препрод консоль" url="http://192.168.20.236">
+      <webServer id="6861f9fe-ef59-4ed1-b164-72caac048b2c" name="(preprod) Триумф препрод консоль" url="http://192.168.20.236">
         <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/server-console" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -97,7 +97,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9757fe18-4435-4605-bc0a-b0945ce8eb4c" name="Триумф dev1" url="http://192.168.20.236">
+      <webServer id="9757fe18-4435-4605-bc0a-b0945ce8eb4c" name="(preprod) Триумф dev1" url="http://192.168.20.236">
         <fileTransfer host="192.168.20.236" port="22" rootFolder="/spool/www/rubens/htdocs/rubens-dev1" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -121,7 +121,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="fc0c0bc4-c8d5-4ea7-9a37-dfb51300b78e" name="Hub dev 2" url="http://dev2.office.raketa.center">
+      <webServer id="fc0c0bc4-c8d5-4ea7-9a37-dfb51300b78e" name="(preprod) Hub dev 2" url="http://dev2.office.raketa.center">
         <fileTransfer host="192.168.20.238" port="22" rootFolder="/spool/www/rubens/htdocs/hub-dev2" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -129,7 +129,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c8c849a7-ef9f-421d-a40e-6b35c1ef474a" name="(web2)Raketa stat" url="http://web2.raketa.center">
+      <webServer id="c8c849a7-ef9f-421d-a40e-6b35c1ef474a" name="(web 1) Raketa stat" url="http://web2.raketa.center">
         <fileTransfer host="web2.raketa.center" port="22" rootFolder="/media/storage/www/rubens-stat" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -137,7 +137,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="00fe86bd-a85d-41dc-aa8c-9cf8359af4b7" name="m20.mimimigames.com" url="http://m20.mimimigames.com">
+      <webServer id="00fe86bd-a85d-41dc-aa8c-9cf8359af4b7" name="(m20) m20.mimimigames.com" url="http://m20.mimimigames.com">
         <fileTransfer host="m20.mimimigames.com" port="22" rootFolder="/media/storage/www/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
