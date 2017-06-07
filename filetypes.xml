@@ -19,6 +19,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="r117" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern="ym_init.volt" type="Twig" />
       <mapping ext="j2" type="Twig" />
       <mapping ext="volt" type="Twig" />
     </extensionMap>
