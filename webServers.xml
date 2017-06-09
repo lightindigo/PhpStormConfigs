@@ -81,8 +81,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="00fe86bd-a85d-41dc-aa8c-9cf8359af4b7" name="(preupdate en) m20.mimimigames.com" url="http://m20.mimimigames.com">
-        <fileTransfer host="m20.mimimigames.com" port="22" rootFolder="/media/storage/www/" accessType="SFTP">
+      <webServer id="00fe86bd-a85d-41dc-aa8c-9cf8359af4b7" name="(preupdate en) m20.mimimigames.com" url="http://preupdate.totalbattle.com">
+        <fileTransfer host="preupdate.totalbattle.com" port="22" rootFolder="/media/storage/www/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
