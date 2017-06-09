@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6343d9bd-e1c3-45bd-9413-7952bcdb5534" name="(preupdate ru)Триумф преапдейт" url="http://m18.mimimigames.com">
-        <fileTransfer host="m18.mimimigames.com" port="22" rootFolder="/media/storage/www/rubens/htdocs" accessType="SFTP">
+      <webServer id="6343d9bd-e1c3-45bd-9413-7952bcdb5534" name="(preupdate ru)Триумф преапдейт" url="http://triumph-preupdate.totalbattle.com">
+        <fileTransfer host="triumph-preupdate.totalbattle.com" port="22" rootFolder="/media/storage/www/rubens/htdocs" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
