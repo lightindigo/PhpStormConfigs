@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="checkout" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.paypalobjects.com_api_checkout.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.paypalobjects.com_api_checkout.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="raven" type="javaScript">
       <properties>
         <sourceFilesUrls>
