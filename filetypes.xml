@@ -10,7 +10,6 @@
       <mapping pattern="php_fpm" type="PLAIN_TEXT" />
       <mapping pattern="PlayerListForm.tsx" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="save" type="PLAIN_TEXT" />
